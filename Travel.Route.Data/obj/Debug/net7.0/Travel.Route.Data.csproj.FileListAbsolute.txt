@@ -1,0 +1,15 @@
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\bin\Debug\net7.0\Travel.Route.Data.deps.json
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\bin\Debug\net7.0\Travel.Route.Data.dll
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\bin\Debug\net7.0\Travel.Route.Data.pdb
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\bin\Debug\net7.0\Travel.Route.Domain.dll
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\bin\Debug\net7.0\Travel.Route.Domain.pdb
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\Travel.Route.Data.csproj.AssemblyReference.cache
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\Travel.Route.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\Travel.Route.Data.AssemblyInfoInputs.cache
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\Travel.Route.Data.AssemblyInfo.cs
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\Travel.Route.Data.csproj.CoreCompileInputs.cache
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\Travel.Route.Data.csproj.CopyComplete
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\Travel.Route.Data.dll
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\refint\Travel.Route.Data.dll
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\Travel.Route.Data.pdb
+C:\Users\wagne\source\repos\Travel.Route\Travel.Route.Data\obj\Debug\net7.0\ref\Travel.Route.Data.dll
